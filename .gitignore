@@ -1,2 +1,9 @@
+### Django ###
 .vscode/
 venv/
+__pycache__/
+db.sqlite3
+media/
+*.pyc
+*.pot
+*.log
